@@ -1,0 +1,23 @@
+<svg width="190" height="97" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_2_blur">
+   <feGaussianBlur stdDeviation="0.9" in="SourceGraphic"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_6_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="99" width="192" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text filter="url(#svg_2_blur)" stroke="#000000" transform="matrix(1.3664771624790146,0,0,1.3157894611358636,-26.570729177332566,-1.631578803062439) " font-weight="bold" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="29" id="svg_2" y="43.54" x="55.132015" stroke-width="0" fill="#000000">P.S.C</text>
+  <path filter="url(#svg_6_blur)" stroke="#729C62" opacity="0.35" id="svg_6" d="m16.854985,23.756416c0,-4.913348 8.31072,-8.896416 18.562489,-8.896416l8.437506,0l0,0l40.500002,0l75.937503,0c4.923078,0 9.644525,0.937303 13.125684,2.605699c3.481124,1.66841 5.436823,3.931244 5.436823,6.290717l0,22.241046l0,0l0,13.344617l0,0c0,4.913348 -8.31072,8.896416 -18.562506,8.896416l-75.937486,0l-52.908264,22.621505l12.408263,-22.621505l-8.437506,0c-10.251787,0 -18.562506,-3.983068 -18.562506,-8.896416l0,0l0,-13.344617l0,0l0,-22.241046z" stroke-width="6" fill="#56ffaa"/>
+ </g>
+</svg>
